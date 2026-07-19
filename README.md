@@ -1,8 +1,7 @@
-{
-  "versionCode": 80,
-  "versionName": "2.9.10.47",
-  "minimumVersionCode": 79,
-  "mandatory": false,
-  "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Validation of the EasyTagg app update system. No feature behavior was changed."
-}
+# EasyTagg Updates
+
+Public update channel for the EasyTagg Android application.
+
+- `version.json` describes the latest available version.
+- APK files are published through GitHub Releases.
+- The application source code and player database are not stored here.
