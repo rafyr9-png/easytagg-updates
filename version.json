@@ -1,8 +1,8 @@
 {
-  "versionCode": 96,
-  "versionName": "2.9.10.63",
-  "minimumVersionCode": 95,
-  "mandatory": false,
+  "versionCode": 97,
+  "versionName": "2.9.10.64",
+  "minimumVersionCode": 97,
+  "mandatory": true,
   "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Official stable release with pitch MPH, Spin Rate and Exit Velocity tracking, editable Pitcher and Batter Recaps, safe History tag deletion, improved History interface, transactional editing and preserved Sync timing."
+  "releaseNotes": "Official EasyTagg v2.9.10.64 stable release."
 }
