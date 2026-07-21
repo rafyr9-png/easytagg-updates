@@ -1,8 +1,8 @@
 {
-  "versionCode": 97,
-  "versionName": "2.9.10.64",
-  "minimumVersionCode": 97,
+  "versionCode": 99,
+  "versionName": "2.9.10.66",
+  "minimumVersionCode": 99,
   "mandatory": true,
   "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Official EasyTagg v2.9.10.64 stable release."
+  "releaseNotes": "Official EasyTagg v2.9.10.66. Removed Batter Report and Pitcher Report. Added Batter History replacing Runner Event. Alphabetical player lists (except Lineup). Improved History editing workflow, tag vibration, immediate tag registration, and preserved Sync timing."
 }
