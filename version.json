@@ -1,8 +1,8 @@
 {
-  "versionCode": 101,
+  "versionCode": 107,
   "versionName": "2.9.10.76",
-  "minimumVersionCode": 0,
+  "minimumVersionCode": 107,
   "mandatory": false,
   "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Recommended Easy Tagg update. Player At-Bats uses manual refresh, shows only OZ when applicable, and opens with all player dropdowns compacted. The update is optional and the app remains usable without installing it immediately."
+  "releaseNotes": "Easy Tagg v2.9.10.76 introduces the new optional GitHub update system. The app automatically checks for new versions at startup and allows users to update immediately or continue using the current version. Internal improvements and stability enhancements included."
 }
