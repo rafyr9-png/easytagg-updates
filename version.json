@@ -1,8 +1,8 @@
 {
-  "versionCode": 107,
-  "versionName": "2.9.10.76",
-  "minimumVersionCode": 107,
+  "versionCode": 109,
+  "versionName": "2.9.10.78",
+  "minimumVersionCode": 109,
   "mandatory": false,
   "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Easy Tagg v2.9.10.76 introduces the new optional GitHub update system. The app automatically checks for new versions at startup and allows users to update immediately or continue using the current version. Internal improvements and stability enhancements included."
+  "releaseNotes": "Easy Tagg v2.9.10.78 adds vertical scrolling to the main Player At-Bats window and independent scrolling inside each player's expanded At-Bats dropdown, allowing unlimited players and plate appearances to be viewed. Preserves the manual REFRESH workflow, optional GitHub update system, and all existing Easy Tagg functionality."
 }
