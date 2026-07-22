@@ -1,8 +1,8 @@
 {
-  "versionCode": 99,
-  "versionName": "2.9.10.66",
-  "minimumVersionCode": 99,
-  "mandatory": true,
+  "versionCode": 101,
+  "versionName": "2.9.10.76",
+  "minimumVersionCode": 0,
+  "mandatory": false,
   "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Official EasyTagg v2.9.10.66. Removed Batter Report and Pitcher Report. Added Batter History replacing Runner Event. Alphabetical player lists (except Lineup). Improved History editing workflow, tag vibration, immediate tag registration, and preserved Sync timing."
+  "releaseNotes": "Recommended Easy Tagg update. Player At-Bats uses manual refresh, shows only OZ when applicable, and opens with all player dropdowns compacted. The update is optional and the app remains usable without installing it immediately."
 }
