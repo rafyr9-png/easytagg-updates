@@ -1,8 +1,10 @@
 {
-  "versionCode": 110,
-  "versionName": "2.9.10.79",
-  "minimumVersionCode": 110,
-  "mandatory": false,
-  "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Easy Tagg v2.9.10.79 fixes the Player At-Bats interface by restoring the original compact layout while adding vertical scrolling to the player list and independent scrolling inside each player's expanded At-Bats dropdown. Preserves the manual REFRESH workflow, optional GitHub update system, and all existing Easy Tagg functionality."
+  "versionCode": 291085,
+  "versionName": "2.9.10.85",
+  "minimumVersion": 291076,
+  "forceUpdate": false,
+  "releaseDate": "2026-07-26",
+  "title": "Easy Tagg v2.9.10.85",
+  "description": "Final verification of the millisecond timestamp engine for video synchronization. Improved timestamp accuracy, reduced timing drift during tagging, and optimized sync consistency for long recording sessions. Preserves all existing Easy Tagg functionality.",
+  "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk"
 }
