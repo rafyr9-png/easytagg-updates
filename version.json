@@ -1,8 +1,8 @@
 {
-  "versionCode": 117,
-  "versionName": "2.9.10.87",
+  "versionCode": 118,
+  "versionName": "2.9.10.88",
   "minimumVersionCode": 110,
   "mandatory": false,
   "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Complete English audit. Translated remaining Spanish interface text, alerts, validation messages, confirmation dialogs, and dynamic runtime messages while preserving all existing Easy Tagg functionality."
+  "releaseNotes": "Fixed installed-version detection and latest-version confirmation. Easy Tagg now displays that v2.9.10.88 is the latest version after a successful GitHub check, including the automatic startup check. All existing functionality is preserved."
 }
