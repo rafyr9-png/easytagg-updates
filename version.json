@@ -1,8 +1,8 @@
 {
-  "versionCode": 119,
-  "versionName": "2.9.10.89",
+  "versionCode": 120,
+  "versionName": "2.9.10.90",
   "minimumVersionCode": 110,
   "mandatory": false,
   "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Fixed the Current Activity Roster layout. Each player now renders in one independent card with a single Edit button, one Remove from Activity button, and one Delete button. Duplicated Edit Number controls and nested roster cards were removed while preserving all existing functionality."
+  "releaseNotes": "Added a search field to Add Existing Player and sorted the player list alphabetically. Search works by player name, number, role, team, position, and player code. Existing roster, lineup, tagging, History, reports, Sync, TrackMan, and update functionality remain unchanged."
 }
