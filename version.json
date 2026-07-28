@@ -1,9 +1,10 @@
 {
-  "versionCode": 124,
-  "versionName": "2.9.10.94",
+  "versionCode": 125,
+  "versionName": "2.9.10.95",
   "apkUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
+  "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
   "required": false,
-  "title": "Easy Tagg v2.9.10.94 available",
-  "message": "Player At-Bats now uses a stable two-level view: select a player, then scroll through that player's complete AB history in a dedicated screen.",
-  "releaseNotes": "Replaces nested accordion scrolling with a player list and a separate player detail view. The detail screen has one dedicated scroll area, a BACK button, and preserves manual REFRESH plus the existing History analysis logic."
+  "title": "Easy Tagg v2.9.10.95 available",
+  "message": "The update system now accepts both apkUrl and downloadUrl, preventing false 'not published yet' messages.",
+  "releaseNotes": "Fixes the GitHub update download link compatibility by supporting both apkUrl and downloadUrl. Improves missing or invalid link messages while preserving optional updates and all existing Easy Tagg functionality."
 }
