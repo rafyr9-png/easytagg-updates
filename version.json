@@ -1,8 +1,9 @@
 {
-  "versionCode": 123,
-  "versionName": "2.9.10.93",
-  "minimumVersionCode": 110,
-  "mandatory": false,
-  "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Player At-Bats keeps the full-screen single-player accordion and adds a dedicated internal scroll area for the expanded player's plate appearances. Opening another player still closes the previous one, and REFRESH plus History analysis remain unchanged."
+  "versionCode": 124,
+  "versionName": "2.9.10.94",
+  "apkUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
+  "required": false,
+  "title": "Easy Tagg v2.9.10.94 available",
+  "message": "Player At-Bats now uses a stable two-level view: select a player, then scroll through that player's complete AB history in a dedicated screen.",
+  "releaseNotes": "Replaces nested accordion scrolling with a player list and a separate player detail view. The detail screen has one dedicated scroll area, a BACK button, and preserves manual REFRESH plus the existing History analysis logic."
 }
