@@ -1,8 +1,8 @@
 {
-  "versionCode": 121,
-  "versionName": "2.9.10.91",
+  "versionCode": 122,
+  "versionName": "2.9.10.92",
   "minimumVersionCode": 110,
   "mandatory": false,
   "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "releaseNotes": "Added a search field to Add Existing Player and sorted the player list alphabetically. Search works by player name, number, role, team, position, and player code. Existing roster, lineup, tagging, History, reports, Sync, TrackMan, and update functionality remain unchanged."
+  "releaseNotes": "Player At-Bats now opens as a dedicated full-screen view with one vertical scroll area. Opening a player automatically closes the previously expanded player, while REFRESH and the existing History analysis remain unchanged."
 }
