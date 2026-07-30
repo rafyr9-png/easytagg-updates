@@ -1,10 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "2.9.10.95",
-  "apkUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
-  "required": false,
-  "title": "Easy Tagg v2.9.10.95 available",
-  "message": "The update system now accepts both apkUrl and downloadUrl, preventing false 'not published yet' messages.",
-  "releaseNotes": "Fixes the GitHub update download link compatibility by supporting both apkUrl and downloadUrl. Improves missing or invalid link messages while preserving optional updates and all existing Easy Tagg functionality."
+  "latestVersion": "2.9.10.96",
+  "minimumVersion": "2.9.10.95",
+  "apkUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/download/v2.9.10.96/EasyTagg_v2.9.10.96.apk",
+  "releaseNotes": "Performance optimization for long games and new Light/Dark interface toggle.",
+  "forceUpdate": false
 }
