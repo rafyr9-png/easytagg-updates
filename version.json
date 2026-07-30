@@ -1,16 +1,13 @@
 {
-  "versionCode": 126,
-  "versionName": "2.9.10.96",
-  "latestVersion": "2.9.10.96",
+  "versionCode": 127,
+  "versionName": "2.9.10.97",
+  "latestVersion": "2.9.10.97",
   "minimumVersion": "2.9.10.95",
-
-  "apkUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/download/v2.9.10.96/EasyTagg_v2.9.10.96.apk",
-  "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/download/v2.9.10.96/EasyTagg_v2.9.10.96.apk",
-
+  "apkUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/download/v2.9.10.97/EasyTagg_v2.9.10.97.apk",
+  "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/download/v2.9.10.97/EasyTagg_v2.9.10.97.apk",
   "forceUpdate": false,
   "required": false,
-
-  "title": "Easy Tagg v2.9.10.96",
-  "message": "Performance improvements for long games and Light/Dark mode.",
-  "releaseNotes": "Performance optimization for long games and new Light/Dark interface toggle."
+  "title": "Easy Tagg v2.9.10.97",
+  "message": "Complete Light Mode and faster roster reordering.",
+  "releaseNotes": "Completes Light Mode coverage, keeps player cards dark with white text, and speeds up roster ordering in long games."
 }
