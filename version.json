@@ -1,13 +1,10 @@
 {
-  "versionCode": 128,
-  "versionName": "2.9.10.98",
-  "latestVersion": "2.9.10.98",
-  "minimumVersion": "2.9.10.95",
-  "apkUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/download/v2.9.10.98/EasyTagg_v2.9.10.98.apk",
-  "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/download/v2.9.10.98/EasyTagg_v2.9.10.98.apk",
-  "forceUpdate": false,
+  "versionCode": 125,
+  "versionName": "2.9.10.95",
+  "apkUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
+  "downloadUrl": "https://github.com/rafyr9-png/easytagg-updates/releases/latest/download/EasyTagg.apk",
   "required": false,
-  "title": "Easy Tagg v2.9.10.98",
-  "message": "Complete global theme audit with consistent light and dark interfaces.",
-  "releaseNotes": "Centralizes theme colors across the complete app, removes unintended black surfaces in Light Mode, corrects text, placeholder and number contrast, adapts icons and native controls, keeps active tabs orange, and synchronizes the installed APK version with the GitHub release metadata. Preserves the approved dark strike zone and player cards, fast roster ordering, tagging, History, exports and sync behavior."
+  "title": "Easy Tagg v2.9.10.95 available",
+  "message": "The update system now accepts both apkUrl and downloadUrl, preventing false 'not published yet' messages.",
+  "releaseNotes": "Fixes the GitHub update download link compatibility by supporting both apkUrl and downloadUrl. Improves missing or invalid link messages while preserving optional updates and all existing Easy Tagg functionality."
 }
